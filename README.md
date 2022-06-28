@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peter-Brian
-- 👀 I’m interested in Softwares
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
