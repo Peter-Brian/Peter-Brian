@@ -8,4 +8,4 @@
 Peter-Brian/Peter-Brian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Avatar](https://api.readyplayer.me/v1/avatars/633958d0573a46702917dad2.glb)
+![R*](https://user-images.githubusercontent.com/106863315/193547861-191b1d78-1a2c-46b9-9d65-df8e913d0244.jpeg)
