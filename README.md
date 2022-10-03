@@ -1,3 +1,4 @@
+![images](https://user-images.githubusercontent.com/106863315/193555659-88e7c57c-b25f-4c6f-a5fd-22f2cf66b9e6.jpeg)
 - 👋 Hi, I’m @Peter-Brian.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning software engineering. 
