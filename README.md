@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![R*](https://user-images.githubusercontent.com/106863315/193547861-191b1d78-1a2c-46b9-9d65-df8e913d0244.jpeg)
 :smile:	
-![it's cool]("https://assets.pinterest.com/ext/embed.html?id=1196337397142782")
+:innocent:	
