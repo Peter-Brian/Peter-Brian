@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Brian&layout=compact)](https://github.com/Peter-Brian/github-readme-stats)
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
