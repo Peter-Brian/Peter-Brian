@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi ,+My name is PeterBrian+a student at ALX Software Programme+and this my github profile;Currently only learning,+but soon will start creating and developing+seat back+and enjoy the journey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
