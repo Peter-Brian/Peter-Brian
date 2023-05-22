@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# 👋 Hi, I'm @Peter-Brian.
 
 Welcome to my GitHub profile! I'm passionate about coding and enjoy working on various projects. Here's an overview of my activity and interests:
 
@@ -27,16 +27,15 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy working on v
 - [Project 2](https://github.com/YourUsername/Project2): Brief description of the project.
 - [Project 3](https://github.com/YourUsername/Project3): Brief description of the project.
 
-## 💻 Skills
+## 🌱 I’m currently learning
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React
-- Databases: MySQL, MongoDB
-- Tools: Git, VS Code, Docker
+I am currently focusing on software engineering and expanding my skills in various programming languages and technologies.
 
-## 📫 Contact Me
+## 💞️ I’m looking to collaborate
 
-Feel free to reach out to me through [email](mailto:studygroup226@gmail.com.com) for more information.
+I'm open to collaborating with other developers on interesting projects. If you have any exciting opportunities or ideas, feel free to reach out to me.
 
-Looking forward to connecting with fellow developers and exploring exciting opportunities!
+## 📫 How to reach me
+
+You can reach me via email at [studygroup226@gmail.com](mailto:studygroup226@gmail.com). Let's connect and explore together!
 
