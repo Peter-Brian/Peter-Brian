@@ -1,31 +1,42 @@
-- 👋 Hi, I’m @Peter-Brian.
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning software engineering. 
-- 💞️ I’m looking to collaborate with other developers.
-- 📫 How to reach me on twitter @PeterBrian226.
+# Hello, I'm [Your Name]! 👋
 
+Welcome to my GitHub profile! I'm passionate about coding and enjoy working on various projects. Here's an overview of my activity and interests:
 
-<hr>
+## 📊 Profile Analytics
 
-## ❤ Views and Followers.
+![Profile Views](https://komarev.com/ghpvc/?username=Peter-Brian)
+[![GitHub Followers](https://img.shields.io/github/followers/Peter-Brian?label=Followers&style=social)](https://github.com/Peter-Brian?tab=followers)
 
-<a href="https://github.com/Peter-Brian/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Peter-Brian">
-</a>
-<a href="https://github.com/Peter-Brian?tab=followers"><img src="https://img.shields.io/github/followers/Peter-Brian?label=Followers&style=social" alt="GitHub Badge"></a>
+## 🚀 Stats
 
+### Top Languages
 
- <br>
- 
- 
- ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Brian&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Peter-Brian&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Peter-Brian's github stats" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Brian&layout=compact&theme=dark&hide_border=false)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Brian&theme=dark" alt="Peter-Brian" /></p>
-<br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
+### GitHub Activity
 
-<!---
-Peter-Brian/Peter-Brian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter-Brian&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs)
+
+### Contribution Streak
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peter-Brian&theme=dark)
+
+## 🌟 Project Highlights
+
+- [Project 1](https://github.com/YourUsername/Project1): Brief description of the project.
+- [Project 2](https://github.com/YourUsername/Project2): Brief description of the project.
+- [Project 3](https://github.com/YourUsername/Project3): Brief description of the project.
+
+## 💻 Skills
+
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React
+- Databases: MySQL, MongoDB
+- Tools: Git, VS Code, Docker
+
+## 📫 Contact Me
+
+Feel free to reach out to me through [email](mailto:youremail@example.com) or visit my [website/portfolio](https://yourwebsite.com) for more information.
+
+Looking forward to connecting with fellow developers and exploring exciting opportunities!
+
