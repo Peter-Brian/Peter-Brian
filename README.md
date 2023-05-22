@@ -26,12 +26,6 @@
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
 
-
-<!-- > <a href="https://github.com/Peter-Brian/github-readme-activity-graph"><img alt="Peter-Brian' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Peter-Brian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-
-
 <!---
 Peter-Brian/Peter-Brian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
