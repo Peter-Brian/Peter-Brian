@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about coding and enjoy working on v
 
 ## 📫 Contact Me
 
-Feel free to reach out to me through [email](mailto:youremail@example.com) or visit my [website/portfolio](https://yourwebsite.com) for more information.
+Feel free to reach out to me through [email](mailto:studygroup226@gmail.com.com) for more information.
 
 Looking forward to connecting with fellow developers and exploring exciting opportunities!
 
