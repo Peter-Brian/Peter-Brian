@@ -37,5 +37,13 @@ I'm open to collaborating with other developers on interesting projects. If you 
 
 ## 📫 How to reach me
 
-You can reach me via email at [studygroup226@gmail.com](mailto:studygroup226@gmail.com). Let's connect and explore together!
+You can reach me via email at [studygroup226@gmail.com](mailto:studygroup226@gmail.com).
+
+Connect with me on other platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PeterBrianKariuki-blue)](https://www.linkedin.com/in/peterbrian-kariuki-61482223b)
+[![Instagram](https://img.shields.io/badge/Instagram-peterbrian226-ff69b4)](https://www.instagram.com/peterbrian226/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40PeterBrian226-blue)](https://twitter.com/PeterBrian226)
+
+Let's connect and explore together!
 
