@@ -45,5 +45,13 @@ Connect with me on other platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-peterbrian226-ff69b4)](https://www.instagram.com/peterbrian226/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40PeterBrian226-blue)](https://twitter.com/PeterBrian226)
 
+Visit my website:
+
+[![Website](https://img.shields.io/badge/Website-DreamHomeDetective-yellow)](https://studygroup226.wixsite.com/dream-home-detective)
+
+Check out my blog:
+
+[![Blog](https://img.shields.io/badge/Blog-StudyGroup226-orange)](https://studygroup226.blogspot.com/)
+
 Let's connect and explore together!
 
